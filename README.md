@@ -1,0 +1,2 @@
+# bingo-date-privacy
+privacyPolicy
